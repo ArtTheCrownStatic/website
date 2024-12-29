@@ -187,8 +187,10 @@ body {
 .panel-text {
     max-width: 40%;
     color:#000000;
-	font-family:Verdana;
-	font-size:17px;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:6px 24px;
 	text-decoration:none;
     justify-content: start;
     padding: 50px;
@@ -428,6 +430,6 @@ body {
 	text-decoration:none;
 	text-shadow:1px 0px 0px #9752cc;
     width: 90%;
-    height: 250px;
+    height: fit-content;
 }
 }
