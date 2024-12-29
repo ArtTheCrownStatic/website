@@ -11,18 +11,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Map voice messages to specific audio files
     const audioFiles = {
-        vm1: "../assets/VMS/TheCherryChair.m4a",
-        vm2: "../assets/VMS/helena_1564.m4a",
-        vm3: "../assets/VMS/Emerald.opus",
-        vm4: "../assets/VMS/Fallen.aac",
-        vm5: "../assets/VMS/Ayu.mp3",
-        vm6: "../assets/VMS/auri.m4a",
-        vm7: "../assets/VMS/arthur.m4a",
-        vm8: "../assets/VMS/Reds.mp3",
-        vm9: "../assets/VMS/Dragoncy.aac",
-        vm10: "../assets/VMS/theicepeer.mp3",
-        vm11: "../assets/VMS/Ahana.mp3",
+        vm1: "/website/assets/VMS/TheCherryChair.m4a",
+        vm2: "/website/assets/VMS/helena_1564.m4a",
+        vm3: "/website/assets/VMS/Emerald.opus",
+        vm4: "/website/assets/VMS/Fallen.aac",
+        vm5: "/website/assets/VMS/Ayu.mp3",
+        vm6: "/website/assets/VMS/auri.m4a",
+        vm7: "/website/assets/VMS/arthur.m4a",
+        vm8: "/website/assets/VMS/Reds.mp3",
+        vm9: "/website/assets/VMS/Dragoncy.aac",
+        vm10: "/website/assets/VMS/theicepeer.mp3",
+        vm11: "/website/assets/VMS/Ahana.mp3",
     };
+
 
     let currentAudio = null;
 
