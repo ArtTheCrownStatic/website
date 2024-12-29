@@ -413,4 +413,21 @@ body {
         visibility: hidden; /* Hide by default */
         pointer-events: none; /* Prevent blocking clicks by default */
     }
+	.special-place {
+	box-shadow:inset 0px 1px 0px 0px #efdcfb;
+	background-color:#bc80ea;
+	border-radius:6px;
+	border:1px solid #c584f3;
+	display:inline-block;
+	/* cursor:pointer; */
+	color:#222222;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 0px 0px #9752cc;
+    width: 90%;
+    height: 250px;
+}
 }
