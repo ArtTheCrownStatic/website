@@ -80,7 +80,7 @@ body {
 }
 
 .background {
-    background-image: url("/assets/AmbientBG.jpg");
+    background-image: url("./assets/AmbientBG.jpg");
     width: 100vw; /* Explicitly set to 100% of the viewport width */
     height: 100vh; /* Explicitly set to 100% of the viewport height */
     background-attachment: fixed;
@@ -134,7 +134,7 @@ body {
 }
 
 .main-container .bg-strip .box-bg {
-    background-image: url("/assets/knot.png");
+    background-image: url("./assets/knot.png");
     width: 300px;
     height: 600px;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ body {
 .userpfp-chair {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/chairPfp.jpg");
+    background-image: url("./assets/chairPfp.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -240,7 +240,7 @@ body {
 .userpfp-heleena {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/heleenaPfp.jpg");
+    background-image: url("./assets/heleenaPfp.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -249,7 +249,7 @@ body {
 .userpfp-eme {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/emePfp.png");
+    background-image: url("./assets/emePfp.png");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -258,7 +258,7 @@ body {
 .userpfp-ayu {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/ayuPfp.jpg");
+    background-image: url("./assets/ayuPfp.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -267,7 +267,7 @@ body {
 .userpfp-rai {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/fallen.jpg");
+    background-image: url("./assets/fallen.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -276,7 +276,7 @@ body {
 .userpfp-suki {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/suki.png");
+    background-image: url("./assets/suki.png");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -285,7 +285,7 @@ body {
 .userpfp-reds {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/reds.png");
+    background-image: url("./assets/reds.png");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -294,7 +294,7 @@ body {
 .userpfp-ice {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/theicepeer.jpg");
+    background-image: url("./assets/theicepeer.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -303,7 +303,7 @@ body {
 .userpfp-drag {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/drag.jpg");
+    background-image: url("./assets/drag.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -312,7 +312,7 @@ body {
 .userpfp-ahana {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/ahana.jpg");
+    background-image: url("./assets/ahana.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
@@ -321,7 +321,7 @@ body {
 .userpfp-arth {
     width: 50px;
     height: 50px;
-    background-image: url("/assets/arthur.jpg");
+    background-image: url("./assets/arthur.jpg");
     background-repeat: no-repeat; /* Prevent repetition */
     background-size: contain; /* Ensure the image fits the container */
     border-radius: 50%;
